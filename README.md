@@ -2,7 +2,7 @@
 
 Exibe a opção de acessar o estoque de veículos e um campo de busca para modelos ou marcas.
 
-![Página Inicial](InicialTeste.jpeg)
+![Página Inicial](https://github.com/garrotii/A3/blob/27bad784dd3272969c1786cff0e9168a481fc77f/InicialTeste.jpeg)
 
 ---
 
