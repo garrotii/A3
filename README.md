@@ -21,6 +21,10 @@ Exibe os veículos disponíveis para venda, com informações como modelo, ano, 
 
 ---
 
+## Autores
+
+- [@garrotii](https://www.github.com/garrotii)
+
 ## Página de Detalhes do Carro
 Exibe informações detalhadas sobre um carro selecionado, como marca, modelo, ano, cor e preço. Inclui uma imagem representativa e um botão "Comprar" para iniciar o processo de aquisição do veículo.
 
