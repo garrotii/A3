@@ -29,3 +29,9 @@ Exibe os veículos disponíveis para venda, com informações como modelo, ano, 
 Exibe informações detalhadas sobre um carro selecionado, como marca, modelo, ano, cor e preço. Inclui uma imagem representativa e um botão "Comprar" para iniciar o processo de aquisição do veículo.
 
 ![Página Inicial](https://github.com/garrotii/A3/blob/92997ecb74f2f7be5651b99abe2aa511ca1d507d/DetalhesCarro.jpeg)
+
+---
+
+## Autores
+
+- [@lazaromx](https://www.github.com/lazaromx)
