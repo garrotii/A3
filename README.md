@@ -8,7 +8,7 @@ O projeto Anhembi Motors é uma plataforma desenvolvida para facilitar a reserva
 
 Exibe a opção de acessar o estoque de veículos e um campo de busca para modelos ou marcas.
 
-![Página Inicial](https://github.com/garrotii/A3/blob/27bad784dd3272969c1786cff0e9168a481fc77f/InicialTeste.jpeg)
+![Página Inicial](https://github.com/garrotii/A3/blob/e453556c2c53efaa9e5fe12dcf6a82a62736fc1e/Home.jpeg)
 
 ---
 
