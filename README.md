@@ -1,3 +1,9 @@
+## Sobre o projeto:
+
+O projeto Anhembi Motors é uma plataforma desenvolvida para facilitar a reserva de veículos de forma prática e eficiente. Com páginas intuitivas e integradas, como a de estoque, detalhes dos carros e login, o sistema permite aos usuários encontrar e comprar veículos de maneira simples.
+
+---
+
 ## Página Inicial:
 
 Exibe a opção de acessar o estoque de veículos e um campo de busca para modelos ou marcas.
