@@ -31,3 +31,5 @@ Exibe informações detalhadas sobre um carro selecionado, como marca, modelo, a
 ## Autores
 
 - [@garrotii](https://www.github.com/garrotii)
+- [@lazaromx](https://github.com/lazaromx)
+- [MKDark](https://github.com/MateusKalil)
