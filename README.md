@@ -4,6 +4,13 @@ O projeto UAM Motors é uma plataforma desenvolvida para facilitar a compra de v
 
 ---
 
+## Ferramentas Utilizadas
+
+- Frontend: Angular.
+- Backend: Java Spring Boot
+- Banco de Dados: MySQL.
+- Ferramentas: Visual Studio Code, IntelliJ, GitHub.
+
 ## Página Inicial:
 
 Exibe a opção de acessar o estoque de veículos e um campo de busca para modelos ou marcas.
