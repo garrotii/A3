@@ -46,16 +46,28 @@ Exibe a opção de cadastrar novos usuários com campos para nome, sobrenome, e-
 ---
 
 ## Página de Estoque:
+
 Exibe os veículos disponíveis para venda, com informações como modelo, ano, cor e preço. Permite filtrar por marca, modelo, ano, cor e faixa de preço. Os usuários podem visualizar detalhes ou iniciar o processo de compra.
 
-![Página Inicial](https://github.com/garrotii/A3/blob/90bcffcf6d17dadb5279d499a6961715566a0c86/Estoque.jpeg)
+![Página de Estoque](https://github.com/garrotii/A3/blob/90bcffcf6d17dadb5279d499a6961715566a0c86/Estoque.jpeg)
 
 ---
 
 ## Página de Detalhes do Carro:
-Exibe informações detalhadas sobre um carro selecionado, como marca, modelo, ano, cor e preço. Inclui uma imagem representativa e um botão "Reservar" para iniciar o processo de aquisição do veículo.
 
-![Página Inicial](https://github.com/garrotii/A3/blob/92997ecb74f2f7be5651b99abe2aa511ca1d507d/DetalhesCarro.jpeg)
+Exibe informações detalhadas sobre um carro selecionado, como marca, modelo, ano, cor e preço. Inclui uma imagem representativa e um botão "Comprar" para iniciar o processo de aquisição do veículo.
+
+![Página de Detalhes do Carro](https://github.com/garrotii/A3/blob/92997ecb74f2f7be5651b99abe2aa511ca1d507d/DetalhesCarro.jpeg)
+
+---
+
+## Página do Funcionário:
+
+Exibe a opção de visualizar os veículos em estoque, com botões para cadastrar um novo veículo ou esconder o estoque. Permite o cadastro de veículos novos, incluindo campos como marca, modelo, ano, cor, preço e URL de uma imagem representativa. A página possui um botão "Cadastrar" para salvar as informações e incluir o veículo no sistema.
+
+![Página do Funcionário]()
+
+![Cadastrar Novo Veículo]()
 
 ---
 
