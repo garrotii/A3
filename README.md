@@ -57,7 +57,7 @@ Exibe os veículos disponíveis para venda, com informações como modelo, ano, 
 
 Exibe informações detalhadas sobre um carro selecionado, como marca, modelo, ano, cor e preço. Inclui uma imagem representativa e um botão "Comprar" para iniciar o processo de aquisição do veículo.
 
-![Página de Detalhes do Carro](https://github.com/garrotii/A3/blob/92997ecb74f2f7be5651b99abe2aa511ca1d507d/DetalhesCarro.jpeg)
+![Página de Detalhes do Carro](https://github.com/garrotii/A3/blob/76fce7b6a4987c12ff04bd8bb94f2dcda686d81b/Detalhes.jpeg)
 
 ---
 
