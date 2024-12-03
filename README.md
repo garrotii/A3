@@ -65,9 +65,9 @@ Exibe informações detalhadas sobre um carro selecionado, como marca, modelo, a
 
 Exibe a opção de visualizar os veículos em estoque, com botões para cadastrar um novo veículo ou esconder o estoque. Permite o cadastro de veículos novos, incluindo campos como marca, modelo, ano, cor, preço e URL de uma imagem representativa. A página possui um botão "Cadastrar" para salvar as informações e incluir o veículo no sistema.
 
-![Página do Funcionário]()
+![Página do Funcionário](https://github.com/garrotii/A3/blob/d410ea93c8c7df797d2b1e79ff8da55941902d5b/PaginaDoFuncionario.jpe)
 
-![Cadastrar Novo Veículo]()
+![Cadastrar Novo Veículo](https://github.com/garrotii/A3/blob/d410ea93c8c7df797d2b1e79ff8da55941902d5b/CadastroVeiculo.jpeg)
 
 ---
 
