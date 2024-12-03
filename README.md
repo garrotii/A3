@@ -12,7 +12,7 @@ Exibe a opção de acessar o estoque de veículos e um campo de busca para model
 
 ---
 
-## Página de Login do cliente:
+## Página de Login do Cliente:
 
 Permite que clientes façam login. Também oferece a opção de se cadastrar.
 
@@ -26,7 +26,7 @@ Permite que funcionários façam login.
 
 ![Página de Login do Funcionário](https://github.com/garrotii/A3/blob/a80dfc15df2b0e0436a1be5cdc44263f4bfb9979/LoginFuncion%C3%A1rio.jpeg)
 
---
+---
 
 ## Página de Cadastro
 
