@@ -1,6 +1,6 @@
 ## Sobre o projeto:
 
-O projeto UAM Motors é uma plataforma desenvolvida para facilitar a reserva de veículos de forma prática e eficiente. Com páginas intuitivas e integradas, como a de estoque, detalhes dos carros e login, o sistema permite aos usuários encontrar e comprar veículos de maneira simples.
+O projeto UAM Motors é uma plataforma desenvolvida para facilitar a compra de veículos de forma prática e eficiente. Com páginas intuitivas e integradas, como a de estoque, detalhes dos carros e login, o sistema permite aos usuários encontrar e comprar veículos de maneira simples.
 
 ---
 
