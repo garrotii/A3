@@ -4,7 +4,7 @@ O projeto UAM Motors é uma plataforma desenvolvida para facilitar a compra de v
 
 ---
 
-## Ferramentas Utilizadas
+## Ferramentas Utilizadas:
 
 - Frontend: Angular.
 - Backend: Java Spring Boot
@@ -29,7 +29,7 @@ Permite que clientes façam login. Também oferece a opção de se cadastrar.
 
 ---
 
-## Página de Login do Funcionário
+## Página de Login do Funcionário:
 
 Permite que funcionários façam login.
 
@@ -37,7 +37,7 @@ Permite que funcionários façam login.
 
 ---
 
-## Página de Cadastro
+## Página de Cadastro:
 
 Exibe a opção de cadastrar novos usuários com campos para nome, sobrenome, e-mail, senha, telefone e CPF
 
@@ -45,14 +45,14 @@ Exibe a opção de cadastrar novos usuários com campos para nome, sobrenome, e-
 
 ---
 
-## Página de Estoque
+## Página de Estoque:
 Exibe os veículos disponíveis para venda, com informações como modelo, ano, cor e preço. Permite filtrar por marca, modelo, ano, cor e faixa de preço. Os usuários podem visualizar detalhes ou iniciar o processo de compra.
 
 ![Página Inicial](https://github.com/garrotii/A3/blob/92997ecb74f2f7be5651b99abe2aa511ca1d507d/Estoque.jpeg)
 
 ---
 
-## Página de Detalhes do Carro
+## Página de Detalhes do Carro:
 Exibe informações detalhadas sobre um carro selecionado, como marca, modelo, ano, cor e preço. Inclui uma imagem representativa e um botão "Reservar" para iniciar o processo de aquisição do veículo.
 
 ![Página Inicial](https://github.com/garrotii/A3/blob/92997ecb74f2f7be5651b99abe2aa511ca1d507d/DetalhesCarro.jpeg)
