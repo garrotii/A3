@@ -1,4 +1,4 @@
-## Sobre o projeto:
+## Sobre o Projeto:
 
 O projeto UAM Motors é uma plataforma desenvolvida para facilitar a compra de veículos de forma prática e eficiente. Com páginas intuitivas e integradas, como a de estoque, detalhes dos carros e login, o sistema permite aos usuários encontrar e comprar veículos de maneira simples.
 
@@ -12,11 +12,26 @@ Exibe a opção de acessar o estoque de veículos e um campo de busca para model
 
 ---
 
-## Página de Login:
+## Página de Login do cliente:
 
-Permite que clientes e funcionários façam login. Também oferece as opções de recuperar senha ou se cadastrar.
+Permite que clientes façam login. Também oferece a opção de se cadastrar.
 
-![Página de Login](https://github.com/garrotii/A3/blob/fb7d778a29bb68e3d6b099adb921edfed20bfe33/LoginTeste.jpeg)
+![Página de Login do Cliente](https://github.com/garrotii/A3/blob/fb7d778a29bb68e3d6b099adb921edfed20bfe33/LoginTeste.jpeg)
+
+---
+
+## Página de Login do Funcionário
+
+Permite que funcionários façam login.
+
+![Página de Login do Funcionário]()
+--
+
+## Página de Cadastro
+
+Exibe a opção de cadastrar novos usuários com campos para nome, sobrenome, e-mail, senha, telefone e CPF
+
+![Página de Cadastro ]()
 
 ---
 
